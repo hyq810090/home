@@ -1,13 +1,9 @@
 [
- 
- 
   {
     "icon": "CompactDisc",
     "name": "音乐",
     "link": "https://music.imsyy.top/"
   },
- 
- 
   {
     "icon": "Fire",
     "name": "今日热榜",
@@ -16,6 +12,6 @@
   {
     "icon": "LaptopCode",
     "name": "站点监测",
-    "link": "https://status.hyqai.top/"
+    "link": "https://sitestatus.hyqai.top/"
   }
 ]
