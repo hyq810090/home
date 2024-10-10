@@ -1,5 +1,10 @@
 [
   {
+    "icon": "Compass",
+    "name": "NextChat",
+    "link": "https://hyqai.top/"
+  },
+  {
     "icon": "CompactDisc",
     "name": "音乐",
     "link": "https://music.imsyy.top/"
